@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Liang Weng Kang and I'm a student, from Swinburne University of Technology in INTI International College Subang Malaysia.</h2>
+<h2 align="left">Hi 👋! My name is Liang Weng Kang and I'm a full time software developer, from Datakey Sdn Bhd Malaysia.</h2>
 
 ###
 
